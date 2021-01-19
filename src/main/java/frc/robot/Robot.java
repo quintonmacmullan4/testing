@@ -20,6 +20,7 @@ public class Robot extends TimedRobot {
   private RobotContainer m_robotContainer;
 
   private String myCoolString = "mycoolstring";
+  private int myCoolInt = 7777;
 
   /**
    * This function is run when the robot is first started up and should be used for any
